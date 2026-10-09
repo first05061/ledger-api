@@ -1,7 +1,7 @@
 # 가계부 API (FastAPI + Supabase PostgreSQL)
 
-- GitHub: (배포 후 기입)
-- Render: (배포 후 기입)
+- GitHub: https://github.com/first05061/ledger-api
+- Render: https://ledger-api-ytfq.onrender.com (API 문서: /docs)
 
 ## 엔드포인트
 - POST /accounts · GET /accounts · GET /accounts/{account_id}
